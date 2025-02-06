@@ -87,7 +87,7 @@ Date:   Fri Sep 6 07:01:09 2024 -0400
 
 readme
 ```bash
-[kohya_ss_source_code_change_file/blip_caption_gui.py] 替换 kohya_ss\kohya_gui\blip_caption_gui.py
-[kohya_ss_source_code_change_file/lora_gui.py 替换 kohya_ss\kohya_gui\lora_gui.py
-[kohya_ss_source_code_change_file/train_network.py] 替换 kohya_ss\sd-scripts\train_network.py
+[kohya_ss_source_code_change_file/blip_caption_gui.py] replace kohya_ss\kohya_gui\blip_caption_gui.py
+[kohya_ss_source_code_change_file/lora_gui.py replace kohya_ss\kohya_gui\lora_gui.py
+[kohya_ss_source_code_change_file/train_network.py] replace kohya_ss\sd-scripts\train_network.py
 ```

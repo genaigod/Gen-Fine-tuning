@@ -1,4 +1,4 @@
-# Kohya_SS Task Management Platform
+# Gen-Fine-tuning Platform
 
 ## Introduction
 This is a task management platform designed for Kohya_SS LoRA training. It supports API-based LoRA training task submission, progress tracking, and copying trained LoRA models to Stable Diffusion.
